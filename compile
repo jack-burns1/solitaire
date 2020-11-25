@@ -1,0 +1,2 @@
+#!/bin/bash
+javac -d . Card.java Deck.java Game.java Printer.java
